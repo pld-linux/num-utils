@@ -8,6 +8,7 @@ License:	GPL
 Group:		Applications/Text
 Source0:	http://suso.suso.org/programs/num-utils/downloads/%{name}-%{version}.tar.gz
 # Source0-md5:	58eed69761c2da97c3bfdfa422633427
+BuildRequires:	rpm-perlprov
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
