@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Set of programs for dealing with numbers
-Summary(pl.UTF-8):   Zestaw programów do operowania na liczbach
+Summary(pl.UTF-8):	Zestaw programów do operowania na liczbach
 Name:		num-utils
 Version:	0.5
 Release:	1
