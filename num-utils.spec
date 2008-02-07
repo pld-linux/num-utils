@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 The num-utils, short for numeric utilities are a set of programs
-designed to work together from the unix shell to do numeric operations
-on input. They are basically the numeric equivilent of common unix
-text utilities and aim to help complete the unix shell vocabulary.
+designed to work together from the Unix shell to do numeric operations
+on input. They are basically the numeric equivilent of common Unix
+text utilities and aim to help complete the Unix shell vocabulary.
 
 %description -l pl.UTF-8
 num-utils to zestaw programów przeznaczonych do pracy z poziomu
